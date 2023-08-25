@@ -1,7 +1,11 @@
 @import url("style/header.css");
 :root{
     --vermelho: #5bc3ff; --fundo-preto: #00028f;
-    --lìlas; #a510a5;     --fundo-projeto;"Dosis";
+    --lìlas; #a510a5; --fundo-projeto;"Dosis";
 }
-bod
+body{
+    background-color: var(--vermelho);
+    margin: 0; font-family: var(--fundo-projeto);
+ 
+}
 
